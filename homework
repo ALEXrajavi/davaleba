@@ -1,0 +1,4 @@
+user_age = int(input("Enter your age: "))
+print("Under 18:", user_age < 18)
+father_age = int(input("Enter your father's age: "))
+print("Father over 60:", father_age < 60)
